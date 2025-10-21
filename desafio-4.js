@@ -40,7 +40,8 @@ function calcularMediaValidas(atletas) {
         console.log(`Atleta: ${atleta.nome}`);
         console.log(`Notas Obtidas: ${notasValidas.join(", ")}`);
         console.log(`Média Válida: ${media}`);
-        console.log(""); 
+        console.log("");
+         
     }
 }
 
